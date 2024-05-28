@@ -1,0 +1,8 @@
+.venv
+build
+dist
+aggs
+mypy_cache/
+__pycache__/
+*.py[cod]
+/*.py
